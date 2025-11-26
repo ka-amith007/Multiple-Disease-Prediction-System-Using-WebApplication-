@@ -358,6 +358,9 @@ def internal_error(e):
     }), 500
 
 if __name__ == '__main__':
+    import os
+    port = int(os.environ.get('API_PORT', 5001))
+    
     print("\n" + "="*70)
     print("SKIN DISEASE PREDICTION API")
     print("="*70)
@@ -365,10 +368,11 @@ if __name__ == '__main__':
     print(f"Disease Classes: {list(class_indices.values())}")
     print(f"Upload Folder: {UPLOAD_FOLDER}")
     print(f"Max File Size: {MAX_FILE_SIZE // (1024*1024)}MB")
+    print(f"Port: {port}")
     print("="*70)
     print("\nStarting Flask server...")
-    print("API will be available at: http://localhost:5001")
+    print(f"API will be available at: http://0.0.0.0:{port}")
     print("="*70 + "\n")
     
     # Run without debug mode to avoid reloader issues
-    app.run(host='0.0.0.0', port=5001, debug=False, threaded=True)
+    app.run(host='0.0.0.0', port=port, debug=False, threaded=True)
