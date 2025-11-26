@@ -1,0 +1,245 @@
+{
+  "Acne": {
+    "name": "Acne",
+    "symptoms": [
+      "Blackheads (open clogged pores)",
+      "Whiteheads (closed clogged pores)",
+      "Small red, tender bumps (papules)",
+      "Pimples (pustules) with pus at their tips",
+      "Large, solid, painful lumps under the skin (nodules)",
+      "Painful, pus-filled lumps under the skin (cystic lesions)"
+    ],
+    "causes": [
+      "Excess oil (sebum) production",
+      "Hair follicles clogged by oil and dead skin cells",
+      "Bacteria (Propionibacterium acnes)",
+      "Hormonal changes (androgens)",
+      "Certain medications (corticosteroids, testosterone)",
+      "Diet high in refined sugars or carbohydrates",
+      "Stress"
+    ],
+    "precautions": [
+      "Wash your face twice daily with mild soap",
+      "Avoid touching or picking at acne",
+      "Use non-comedogenic skincare products",
+      "Avoid excessive sun exposure",
+      "Remove makeup before sleeping",
+      "Keep hair clean and away from face",
+      "Manage stress levels"
+    ],
+    "treatments": [
+      "Over-the-counter benzoyl peroxide creams",
+      "Salicylic acid products",
+      "Topical retinoids (prescription)",
+      "Oral antibiotics for moderate to severe acne",
+      "Birth control pills (for hormonal acne)",
+      "Isotretinoin for severe cases",
+      "Chemical peels or light therapy"
+    ]
+  },
+  "Eczema": {
+    "name": "Eczema (Atopic Dermatitis)",
+    "symptoms": [
+      "Dry, sensitive skin",
+      "Intense itching",
+      "Red, inflamed skin",
+      "Recurring rash",
+      "Scaly areas",
+      "Rough, leathery patches of skin",
+      "Oozing or crusting",
+      "Areas of swelling"
+    ],
+    "causes": [
+      "Genetic factors (family history)",
+      "Immune system dysfunction",
+      "Environmental triggers (allergens, irritants)",
+      "Dry skin and compromised skin barrier",
+      "Stress",
+      "Harsh soaps and detergents",
+      "Cold, dry weather",
+      "Certain foods (dairy, eggs, nuts)"
+    ],
+    "precautions": [
+      "Moisturize skin regularly (2-3 times daily)",
+      "Take short, lukewarm baths or showers",
+      "Use mild, fragrance-free soaps",
+      "Avoid scratching the affected areas",
+      "Wear soft, breathable fabrics (cotton)",
+      "Identify and avoid triggers",
+      "Use a humidifier in dry environments",
+      "Manage stress effectively"
+    ],
+    "treatments": [
+      "Topical corticosteroids",
+      "Calcineurin inhibitors (Protopic, Elidel)",
+      "Antihistamines for itching",
+      "Oral corticosteroids for severe cases",
+      "Antibiotics if infection is present",
+      "Phototherapy (light therapy)",
+      "Biologics for severe eczema (Dupixent)",
+      "Regular moisturizing with emollients"
+    ]
+  },
+  "Psoriasis": {
+    "name": "Psoriasis",
+    "symptoms": [
+      "Red patches of skin covered with thick, silvery scales",
+      "Small scaling spots (common in children)",
+      "Dry, cracked skin that may bleed",
+      "Itching, burning, or soreness",
+      "Thickened, pitted, or ridged nails",
+      "Swollen and stiff joints (psoriatic arthritis)"
+    ],
+    "causes": [
+      "Immune system malfunction (autoimmune condition)",
+      "Genetic predisposition",
+      "Infections (strep throat, skin infections)",
+      "Stress",
+      "Cold weather",
+      "Smoking and heavy alcohol consumption",
+      "Certain medications (lithium, beta-blockers)",
+      "Skin injuries (cuts, scrapes, bug bites)"
+    ],
+    "precautions": [
+      "Keep skin moisturized",
+      "Avoid skin injuries (cuts, scrapes, sunburns)",
+      "Limit sun exposure (short sessions only)",
+      "Avoid triggers (stress, infections, cold weather)",
+      "Don't scratch or pick at patches",
+      "Limit alcohol consumption",
+      "Quit smoking",
+      "Take short, warm showers"
+    ],
+    "treatments": [
+      "Topical corticosteroids",
+      "Vitamin D analogues (calcipotriene)",
+      "Topical retinoids",
+      "Salicylic acid",
+      "Coal tar preparations",
+      "Phototherapy (UVB light therapy)",
+      "Systemic medications (methotrexate, cyclosporine)",
+      "Biologic drugs (Humira, Enbrel, Stelara)"
+    ]
+  },
+  "Ringworm": {
+    "name": "Ringworm (Tinea)",
+    "symptoms": [
+      "Red, circular, itchy rash with clearer skin in the middle",
+      "Ring-shaped pattern",
+      "Slightly raised, expanding rings",
+      "Scaly, crusty skin",
+      "Hair loss in the affected area (scalp ringworm)",
+      "Brittle or thickened nails (nail ringworm)"
+    ],
+    "causes": [
+      "Fungal infection (dermatophytes)",
+      "Direct contact with infected person or animal",
+      "Touching contaminated objects (towels, clothing, bedding)",
+      "Walking barefoot in contaminated areas (locker rooms, pools)",
+      "Warm, humid environments",
+      "Weakened immune system",
+      "Close contact sports"
+    ],
+    "precautions": [
+      "Keep skin clean and dry",
+      "Avoid sharing personal items (towels, clothing)",
+      "Wear shoes in public showers and pools",
+      "Wash hands frequently",
+      "Keep pets clean and check for infections",
+      "Avoid touching infected areas",
+      "Wash clothing and bedding in hot water",
+      "Wear loose-fitting, breathable clothing"
+    ],
+    "treatments": [
+      "Over-the-counter antifungal creams (clotrimazole, terbinafine)",
+      "Prescription-strength antifungal creams",
+      "Oral antifungal medications for severe cases",
+      "Antifungal shampoos (for scalp ringworm)",
+      "Keep affected area clean and dry",
+      "Complete full course of treatment (2-4 weeks)",
+      "Treat infected pets simultaneously"
+    ]
+  },
+  "Melanoma": {
+    "name": "Melanoma",
+    "symptoms": [
+      "A new, unusual growth or change in an existing mole",
+      "Asymmetrical shape (A)",
+      "Irregular borders (B)",
+      "Multiple colors or uneven color distribution (C)",
+      "Diameter larger than 6mm (D)",
+      "Evolving size, shape, or color (E)",
+      "Itching, tenderness, or bleeding",
+      "Sores that don't heal"
+    ],
+    "causes": [
+      "UV radiation exposure (sun, tanning beds)",
+      "History of sunburns, especially in childhood",
+      "Fair skin, light hair, and light eyes",
+      "Family history of melanoma",
+      "Many moles (more than 50)",
+      "Atypical moles (dysplastic nevi)",
+      "Weakened immune system",
+      "Age (risk increases with age)"
+    ],
+    "precautions": [
+      "Avoid sun exposure during peak hours (10am-4pm)",
+      "Use broad-spectrum sunscreen (SPF 30+)",
+      "Wear protective clothing, hats, and sunglasses",
+      "Avoid tanning beds and sun lamps",
+      "Examine your skin monthly for changes",
+      "Get regular skin checks by a dermatologist",
+      "Protect children from sun exposure",
+      "Stay in shade when outdoors"
+    ],
+    "treatments": [
+      "Surgical removal of melanoma",
+      "Lymph node biopsy or removal",
+      "Immunotherapy (checkpoint inhibitors)",
+      "Targeted therapy (BRAF, MEK inhibitors)",
+      "Chemotherapy for advanced cases",
+      "Radiation therapy",
+      "Clinical trials",
+      "Regular follow-up monitoring"
+    ],
+    "warning": "⚠️ URGENT: Melanoma is a serious form of skin cancer. If detected, please consult an oncologist or dermatologist immediately for proper diagnosis and treatment."
+  },
+  "Healthy": {
+    "name": "Healthy Skin",
+    "symptoms": [
+      "Even skin tone",
+      "Smooth texture",
+      "No visible lesions or rashes",
+      "Good elasticity",
+      "Adequate hydration",
+      "No unusual discoloration"
+    ],
+    "causes": [
+      "Good genetics",
+      "Proper skincare routine",
+      "Balanced diet rich in vitamins",
+      "Adequate hydration",
+      "Sun protection",
+      "Healthy lifestyle",
+      "No underlying skin conditions"
+    ],
+    "precautions": [
+      "Maintain current skincare routine",
+      "Use sunscreen daily (SPF 30+)",
+      "Stay hydrated (8 glasses of water daily)",
+      "Eat a balanced diet rich in antioxidants",
+      "Get adequate sleep (7-9 hours)",
+      "Exercise regularly",
+      "Avoid smoking and excessive alcohol",
+      "Regular skin self-examinations"
+    ],
+    "treatments": [
+      "Continue preventive care",
+      "Regular moisturizing",
+      "Gentle cleansing twice daily",
+      "Annual dermatology check-ups",
+      "Use antioxidant serums (Vitamin C, E)",
+      "Maintain healthy lifestyle habits"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Disease Prediction App",
+  "short_name": "Disease Predict",
+  "description": "AI-powered Multiple Disease Prediction System",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0E1117",
+  "theme_color": "#FF4B4B",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/assets/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/assets/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/assets/logo.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "scope": "/",
+  "categories": ["health", "medical", "utilities"],
+  "screenshots": [
+    {
+      "src": "/assets/screenshot.png",
+      "sizes": "540x720",
+      "type": "image/png"
+    }
+  ]
+}
